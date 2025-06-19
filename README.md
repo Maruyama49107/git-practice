@@ -1,3 +1,3 @@
 # git-practice
-I made a branch in main branch
+I made a conflict branch
 change ripo

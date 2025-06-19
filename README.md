@@ -1,3 +1,3 @@
 # git-practice
-I made a no-fast-forward branch
+I made a branch in main branch
 change ripo

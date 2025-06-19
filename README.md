@@ -1,3 +1,3 @@
 # git-practice
-このリポジトリはGit動画講座用です．
+I made a new-feature branch
 change ripo

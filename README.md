@@ -1,6 +1,5 @@
 # git-practice
 I made a conflict branch
 change ripo
+update on conflict-remote
 
-update on Github
-for the second time
